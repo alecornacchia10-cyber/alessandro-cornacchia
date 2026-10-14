@@ -1,0 +1,10 @@
+AGGIORNAMENTO DEL SITO
+
+1. Copia il contenuto della cartella alessandro-cornacchia nella cartella del progetto sul PC. Sostituisci i file esistenti e unisci le cartelle. Non eliminare la cartella .git del tuo progetto.
+2. Per vedere la versione locale apri index.html.
+3. In GitHub Desktop scrivi in Summary: Due pagine e aggiornamento contatti.
+4. Premi Commit to main, poi Push origin. Il workflow pubblichera automaticamente la cartella public.
+
+La home mantiene la dicotomia iniziale. Le due nuove pagine sono professione.html e vita-e-idee.html. I quattro capitoli personali sono una traccia in preparazione, non racconti gia pubblicati.
+
+Se modifichi i file manualmente ricopia le pagine e assets nella cartella public: e quella pubblicata online.
