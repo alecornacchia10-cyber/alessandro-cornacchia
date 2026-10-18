@@ -1,0 +1,9 @@
+PRIMO POST: ANDATA E RITORNO
+
+Copia il contenuto della cartella alessandro-cornacchia nella cartella del tuo progetto sul PC, sostituendo i file e unendo le cartelle. Non eliminare i file esistenti o la cartella .git.
+
+Per leggere in locale apri andata-e-ritorno.html.
+
+In GitHub Desktop scrivi: Primo post - Andata e ritorno. Premi Commit to main e poi Push origin.
+
+Il post e collegato dalla pagina Vita e idee. La cartella public contiene i file che saranno pubblicati.
