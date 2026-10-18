@@ -1,10 +1,9 @@
-AGGIORNAMENTO DEL SITO
+PRIMO POST: ANDATA E RITORNO
 
-1. Copia il contenuto della cartella alessandro-cornacchia nella cartella del progetto sul PC. Sostituisci i file esistenti e unisci le cartelle. Non eliminare la cartella .git del tuo progetto.
-2. Per vedere la versione locale apri index.html.
-3. In GitHub Desktop scrivi in Summary: Due pagine e aggiornamento contatti.
-4. Premi Commit to main, poi Push origin. Il workflow pubblichera automaticamente la cartella public.
+Copia il contenuto della cartella alessandro-cornacchia nella cartella del tuo progetto sul PC, sostituendo i file e unendo le cartelle. Non eliminare i file esistenti o la cartella .git.
 
-La home mantiene la dicotomia iniziale. Le due nuove pagine sono professione.html e vita-e-idee.html. I quattro capitoli personali sono una traccia in preparazione, non racconti gia pubblicati.
+Per leggere in locale apri andata-e-ritorno.html.
 
-Se modifichi i file manualmente ricopia le pagine e assets nella cartella public: e quella pubblicata online.
+In GitHub Desktop scrivi: Primo post - Andata e ritorno. Premi Commit to main e poi Push origin.
+
+Il post e collegato dalla pagina Vita e idee. La cartella public contiene i file che saranno pubblicati.
